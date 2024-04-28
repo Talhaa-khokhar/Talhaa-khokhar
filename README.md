@@ -1,4 +1,4 @@
-![MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/01/full-stack-designer-1024x615.jpg)
+[![MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/01/full-stack-designer-1024x615.jpg)](https://ecommerce-platforms.com/articles/the-full-stack-design-concept)
 
 # 💫 About Me:
 Studying Computer Science at FAST NUCES, Pakistan  
