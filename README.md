@@ -1,4 +1,4 @@
-[![Full Stack Design Concept](https://img.shields.io/badge/Full_Stack_Design_Concept-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.google.com/url)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fecommerce-platforms.com%2Farticles%2Fthe-full-stack-design-concept&psig=AOvVaw1q1Abb5i1TB6Dg3PJwovx6&ust=1714351528914000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjx6KHX44UDFQAAAAAdAAAAABAJ)(https://www.google.com/url?sa=i&url=https%3A%2F%2Fecommerce-platforms.com%2Farticles%2Fthe-full-stack-design-concept&psig=AOvVaw1q1Abb5i1TB6Dg3PJwovx6&ust=1714351528914000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjx6KHX44UDFQAAAAAdAAAAABAJ)
 # 💫 About Me:
 Studying Computer Science at FAST NUCES, Pakistan  
 📫 How to reach me: tahukhokhar44@gmail.com  
