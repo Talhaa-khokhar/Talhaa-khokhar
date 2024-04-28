@@ -1,3 +1,4 @@
+[![Full Stack Design Concept](https://img.shields.io/badge/Full_Stack_Design_Concept-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.google.com/url)
 # 💫 About Me:
 Studying Computer Science at FAST NUCES, Pakistan  
 📫 How to reach me: tahukhokhar44@gmail.com  
@@ -13,7 +14,6 @@ Studying Computer Science at FAST NUCES, Pakistan
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=Talhaa-khokhar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Full Stack Design Concept](https://img.shields.io/badge/Full_Stack_Design_Concept-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.google.com/url
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
