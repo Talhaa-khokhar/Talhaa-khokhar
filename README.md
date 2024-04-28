@@ -1,4 +1,4 @@
-[![MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/01/full-stack-designer-1024x615.jpg)](https://ecommerce-platforms.com/articles/the-full-stack-design-concept)
+[![MasterHead](https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.gif)](https://ecommerce-platforms.com/articles/the-full-stack-design-concept)
 
 # 💫 About Me:
 Studying Computer Science at FAST NUCES, Pakistan  
@@ -15,6 +15,4 @@ Studying Computer Science at FAST NUCES, Pakistan
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Talhaa-khokhar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Talhaa-khokhar
