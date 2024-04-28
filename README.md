@@ -15,4 +15,4 @@ Studying Computer Science at FAST NUCES, Pakistan
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Talhaa-khokhar
+[![](https://visitcount.itsvg.in/api?id=Talhaa-khokhar&icon=0
