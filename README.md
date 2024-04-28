@@ -1,4 +1,5 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fecommerce-platforms.com%2Farticles%2Fthe-full-stack-design-concept&psig=AOvVaw1q1Abb5i1TB6Dg3PJwovx6&ust=1714351528914000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjx6KHX44UDFQAAAAAdAAAAABAJ)(https://www.google.com/url?sa=i&url=https%3A%2F%2Fecommerce-platforms.com%2Farticles%2Fthe-full-stack-design-concept&psig=AOvVaw1q1Abb5i1TB6Dg3PJwovx6&ust=1714351528914000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjx6KHX44UDFQAAAAAdAAAAABAJ)
+![MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/01/full-stack-designer-1024x615.jpg)
+
 # 💫 About Me:
 Studying Computer Science at FAST NUCES, Pakistan  
 📫 How to reach me: tahukhokhar44@gmail.com  
