@@ -1,5 +1,3 @@
-[![MasterHead](https://i.gifer.com/origin/46/462c6f5f67c13830cd9fcdbfc7b55ded_w200.gif)](https://ecommerce-platforms.com/articles/the-full-stack-design-concept)
-
 # 💫 About Me:
 Studying Computer Science at FAST NUCES, Pakistan  
 📫 How to reach me: tahukhokhar44@gmail.com  
