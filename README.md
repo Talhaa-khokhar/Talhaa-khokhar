@@ -1,11 +1,8 @@
-# 💫 About Me:
-Studying Computer Science at FAST NUCES, Pakistan  
+BS Computer Science at FAST NUCES, Pakistan  
 📫 How to reach me: tahukhokhar44@gmail.com  
 ⚡ Fun fact: Starlight adventures
 
-## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/talhaaa.huh) 
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
